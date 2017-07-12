@@ -30,6 +30,5 @@ int main()
     {
         printf("%d %s %d\n",c[j][0], b[c[j][1]], c[j][2]);
     }
-    system("pause");
     return 0;
 }
